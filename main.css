@@ -2735,7 +2735,7 @@ input, select, textarea {
 				width: 10%;
 			}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 400px) {
 
 			.video.fit {
 				margin: 0.5rem 0;
