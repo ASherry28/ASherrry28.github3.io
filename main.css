@@ -2688,11 +2688,11 @@ input, select, textarea {
 		}
 
 		.video.left, .video.right {
-			max-width: 10%;
+			max-width: 5%;
 		}
 
 			.video.left video, .video.right video{
-				width: 10%;
+				width: 5%;
 			}
 
 		.video.left {
@@ -2710,7 +2710,7 @@ input, select, textarea {
 		.video.fit {
 			display: block;
 			margin: auto;
-			width: 10%;
+			width: 5%;
 		}
 
 			.video.fit:first-child {
@@ -2718,13 +2718,13 @@ input, select, textarea {
 			}
 
 			.video.fit video {
-				width: 10%;
+				width: 5%;
 			}
 
 		.video.main {
 			display: block;
 			margin: auto;
-			width: 10%;
+			width: 5%;
 		}
 
 			.video.main:first-child {
@@ -2732,17 +2732,17 @@ input, select, textarea {
 			}
 
 			.video.main img {
-				width: 10%;
+				width: 5%;
 			}
 
-		@media screen and (max-width: 50px) {
+		@media screen and (max-width: 25px) {
 
 			.video.fit {
-				margin: 0.5rem 0;
+				margin: 0 rem 0;
 			}
 
 			.video.main {
-				margin: 0.5rem 0;
+				margin: 0 rem 0;
 			}
 
 		}
