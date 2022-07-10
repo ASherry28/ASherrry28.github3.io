@@ -2710,7 +2710,7 @@ input, select, textarea {
 		.video.fit {
 			display: block;
 			margin: 2.5rem 0;
-			width: 100%;
+			width: 40%;
 		}
 
 			.video.fit:first-child {
@@ -2718,7 +2718,7 @@ input, select, textarea {
 			}
 
 			.video.fit video {
-				width: 100%;
+				width: 40%;
 			}
 
 		.video.main {
