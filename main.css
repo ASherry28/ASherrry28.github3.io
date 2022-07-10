@@ -2692,7 +2692,7 @@ input, select, textarea {
 		}
 
 			.video.left video, .video.right video{
-				width: 100%;
+				width: 40%;
 			}
 
 		.video.left {
@@ -2724,7 +2724,7 @@ input, select, textarea {
 		.video.main {
 			display: block;
 			margin: 4rem 0;
-			width: 100%;
+			width: 40%;
 		}
 
 			.video.main:first-child {
@@ -2732,7 +2732,7 @@ input, select, textarea {
 			}
 
 			.video.main img {
-				width: 100%;
+				width: 50%;
 			}
 
 		@media screen and (max-width: 736px) {
