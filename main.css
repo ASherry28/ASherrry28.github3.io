@@ -2697,19 +2697,19 @@ input, select, textarea {
 
 		.video.left {
 			float: left;
-			margin: 0 0.5rem 0.5rem 0;
+			margin: auto;
 			top: 0.20rem;
 		}
 
 		.video.right {
 			float: right;
-			margin: 0 0 0.5rem 0.5rem;
+			margin: auto;
 			top: 0.20rem;
 		}
 
 		.video.fit {
 			display: block;
-			margin: 0.5rem 0;
+			margin: auto;
 			width: 10%;
 		}
 
@@ -2723,7 +2723,7 @@ input, select, textarea {
 
 		.video.main {
 			display: block;
-			margin: 0.5rem 0;
+			margin: auto;
 			width: 10%;
 		}
 
