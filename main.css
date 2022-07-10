@@ -2709,7 +2709,7 @@ input, select, textarea {
 
 		.video.fit {
 			display: block;
-			margin: 1rem 0;
+			margin: 0.5rem 0;
 			width: 10%;
 		}
 
@@ -2723,7 +2723,7 @@ input, select, textarea {
 
 		.video.main {
 			display: block;
-			margin: 1rem 0;
+			margin: 0.5rem 0;
 			width: 10%;
 		}
 
@@ -2735,7 +2735,7 @@ input, select, textarea {
 				width: 10%;
 			}
 
-		@media screen and (max-width: 400px) {
+		@media screen and (max-width: 50px) {
 
 			.video.fit {
 				margin: 0.5rem 0;
